@@ -1,6 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Also added was SCSS and tailwind start up config.
 
 Currently, two official plugins are available:
 
